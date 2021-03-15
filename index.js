@@ -6,4 +6,4 @@ console.log(things)
 
 // var things = document.getElementById('thing')
 
-// console.log(things)
+// console.log(things) 
